@@ -1,0 +1,172 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	
+	font-family: "微软雅黑","苹方","Helvetica";
+}
+body{
+	background: #F5F6FA;
+}
+.db{
+	width: 100%;
+	height: auto;
+	background: #007BE3;
+
+}
+.db img{
+	width: 100%;
+}
+.dingbu{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background: #007BE3;
+}
+.dingbu ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.dingbu ul>li{
+	width: 50%;
+	height: auto;
+	
+	float: left;
+}
+.dingbu ul>li>span{
+	font-size: 0.36rem;
+	color: white;
+	box-sizing: border-box;
+	line-height: 0.64rem;
+}
+.dingbu ul>li>img:nth-child(1){
+	float: right;
+}
+
+.banner{
+	width: 100%;
+	height: auto;
+	/* transition: all 1s; */
+}
+.banner img{
+	width: 100%;
+}
+/* .banner:hover{
+	opacity: 0.3;
+	background: black;
+} */
+.box1{
+	width: 100%;
+	height: 0.82rem;
+	line-height: 0.82rem;
+}
+.box1 a{
+	text-decoration: none;
+	color: black;
+	font-size: 0.22rem;
+}
+.box1 span{
+	font-size: 0.22rem;
+	box-sizing: border-box;
+	padding-top: 0.33rem;
+	padding-left: 0.25rem;
+}
+.box2{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	background: white;
+	
+	display:block;
+	margin: 0px auto;
+
+
+}
+ h3{
+	font-size: 0.23rem;
+	color: black;
+	border-bottom: 0.01rem dashed  #BDBDBD;
+}
+.box2 span{
+	font-size: 0.23rem;
+	color: #BDBDBD;
+	line-height: 0.23rem;
+	box-sizing: border-box;
+	padding: 0.2rem;
+	
+
+}
+.box3{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	background: white;
+
+	
+	display:block;
+	margin: 0.01rem auto;
+
+}
+.box3 ul>li{
+	float: left;
+	width: 33.333%;
+	height: auto;
+	box-sizing: border-box;
+	padding: 0.01rem  0.01rem;
+	
+	text-align: center;
+}
+.box3 ul>li>img{
+	width: 100%;
+}
+.box4{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	background: white;
+	
+	display:block;
+	margin: 0.01rem auto;
+
+}
+.box4 span{
+	font-size: 0.22rem;
+	box-sizing: border-box;
+	padding-top: 0.33rem;
+	padding-left: 0.25rem;
+	color: #BDBDBD;
+}
+
+.box5{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	background: white;
+	
+	display:block;
+	margin: 0.01rem auto;
+
+}
+.box5 span{
+	font-size: 0.22rem;
+	box-sizing: border-box;
+	padding-top: 0.33rem;
+	padding-left: 0.25rem;
+	color: #BDBDBD;
+}
+.box6{
+	margin-top: 0.35rem;
+	text-align: center;
+}
+.box7{
+	width: 69%;
+	text-align: center;
+	line-height: 0.26rem;
+	margin: 0.01rem auto;
+	margin-top: 0.2rem;
+}
+.box7 span{
+	font-size: 0.21rem;
+	color: #666666;
+}

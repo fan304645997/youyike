@@ -1,0 +1,145 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	
+	font-family: "微软雅黑","苹方","Helvetica";
+}
+body{
+	background: #F5F6FA;
+}
+.db{
+	width: 100%;
+	height: auto;
+	background: #007BE3;
+
+}
+.db img{
+	width: 100%;
+	height: auto;
+}
+.banner img{
+	width: 100%;
+	height: auto;
+}
+
+.dingbu{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background: #007BE3;
+}
+.dingbu ul{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+}
+.dingbu ul>li{
+	width: 50%;
+	height: auto;
+	float: left;
+}
+
+.dingbu ul>li>span{
+	font-size: 0.36rem;
+	color: white;
+	box-sizing: border-box;
+	line-height: 0.64rem;
+}
+.dingbu ul>li>img:nth-child(1){
+	float: right;
+}
+
+
+
+.box1{
+	width: 100%;
+	height: 0.82rem;
+	line-height: 0.82rem;
+}
+.box1 a{
+	font-size: 0.22rem;
+	box-sizing: border-box;
+	padding-top: 0.33rem;
+	padding-left: 0.35rem;
+	text-decoration: none;
+	color: black;
+}
+.box2{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	background: white;
+	position: relative;
+	display:block;
+	margin: 0px auto;
+	margin-top:0.1rem;
+}
+ h3{
+	font-size: 0.23rem;
+	color: black;
+	
+	width: 94%;
+
+}
+.box2-1{
+	    width: 0.04rem;
+    height: 0.2rem;
+    background: #01B5FF;
+    margin-left: 0.2rem;
+    margin-top: 0.27rem;
+    position: absolute;
+
+}
+
+
+.box2   h3{
+	width: 80%;
+	font-size: 0.23rem;
+	color: black;
+	border-bottom: 0.01rem dashed  #BDBDBD;
+	box-sizing: border-box;
+	padding-top: 0.2rem;
+	/* padding-left: 0.4rem; */
+	padding-bottom: 0.2rem;
+	display: inline-block;
+	margin-left: 0.4rem;
+
+}
+.box2 span{
+	font-size: 0.23rem;
+	color: #BDBDBD;
+	line-height: 0.35rem;
+	box-sizing: border-box;
+	/* padding-top: 0.4rem;
+	padding-left: 0.4rem;
+	padding-bottom: 0.4rem; */
+	padding: 0.4rem;
+	display: inline-block;
+
+}
+.box3{
+	width: 100%;
+	height: 3.63rem;
+	background: #474747;
+}
+.box4{
+	width: 90%;
+	margin: 0px auto;
+}
+.box4  img{
+	width: 100%;
+	
+} 
+
+.box7{
+	width: 69%;
+	text-align: center;
+	line-height: 0.26rem;
+	margin: 0.1rem auto;
+	margin-top: 0.2rem;
+}
+.box7 span{
+	font-size: 0.21rem;
+	color: #666666;
+}
